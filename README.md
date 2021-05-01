@@ -1,6 +1,6 @@
 
 ### ABOUT ME 👋
-- 👋 Hi, I’m @aysenurperker1
+- 👋 Hi, I’m Ayşenur Perker
 - 👀 I’m interested in web application security.
 - 🌱 I’m currently learning Python, C#..
 ### LANGUAGES AND TOOLS :octocat:
