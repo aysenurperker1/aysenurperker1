@@ -16,11 +16,7 @@
   <p>
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/88392be3999fcb065b5a9382fcb36df6797b7aacd5f1afc6c75b8e268e2ac6ac/68747470733a2f2f63646e342e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f6c6f676f732d6272616e64732d352f32342f756e6974792d3531322e706e67"><img align="left" width="50px" src="https://camo.githubusercontent.com/88392be3999fcb065b5a9382fcb36df6797b7aacd5f1afc6c75b8e268e2ac6ac/68747470733a2f2f63646e342e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f6c6f676f732d6272616e64732d352f32342f756e6974792d3531322e706e67" data-canonical-src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png" style="max-width:100%;"></a>
   </p>
-  <p>
-  <a target="_blank" rel="noopener noreferrer" href=![pythonh](https://user-images.githubusercontent.com/74301727/116796050-372da080-aae2-11eb-8901-ad70891fcdb7.jpg)
-><img align="left" width="50px" src=![pythonh](https://user-images.githubusercontent.com/74301727/116796050-372da080-aae2-11eb-8901-ad70891fcdb7.jpg)
-" data-canonical-src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png" style="max-width:100%;"></a>
-   </p>
+
  
   
 <!---
