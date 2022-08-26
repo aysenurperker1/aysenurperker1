@@ -1,6 +1,6 @@
 
-### ABOUT ME 👋
-- 👋 Hi, I’m Ayşenur Perker
+### Hi There 👋 I'm Ayşenur Perker :eyes: 
+-
 - 🌱 I’m currently learning Dart,Flutter..
 <br />
 
