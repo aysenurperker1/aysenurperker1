@@ -2,12 +2,12 @@
   <img src="https://media.giphy.com/media/jz7nZTW5oEBZAAZ4ge/giphy.gif" width="110"/>
 </div>
 <h1 align = "center">
-  Hi There👋 
+  Hi There,I'm Ayşenur Perker  
 </h1>
 
 <br/>
 
-###   :woman_technologist: I'm Ayşenur Perker: 
+###   :woman_technologist: About Me :
 - 🌱 I’m currently learning 💙Flutter&Dart💙 
 - 📫 How to reach me aysenurperker3@gmail.com
 
