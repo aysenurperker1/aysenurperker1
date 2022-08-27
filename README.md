@@ -18,6 +18,7 @@
  <a href="https://www.linkedin.com/in/aysenurperker/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <br/>
 <div id="header" align="left">
  <img src="https://media.giphy.com/media/l0Iy88cWKqBeBN92o/giphy.gif" width="450" height="300"/>
 </div>
