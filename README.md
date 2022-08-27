@@ -3,14 +3,6 @@
 - 🌱 I’m currently learning 💙Flutter&Dart💙 
 - 📫 How to reach me aysenurperker3@gmail.com
 
-
-### Connect With Me:
- <a href="https://www.linkedin.com/in/aysenurperker/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-
-<br />
-
 ### Languages and Tools:
 
 <img align="left" alt="Dart" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" />
@@ -22,7 +14,10 @@
 <img align="left" alt="Github" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
-### .
+### Connect With Me:
+ <a href="https://www.linkedin.com/in/aysenurperker/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 <div id="header" align="left">
  <img src="https://media.giphy.com/media/l0Iy88cWKqBeBN92o/giphy.gif" width="450" height="300"/>
 </div>
