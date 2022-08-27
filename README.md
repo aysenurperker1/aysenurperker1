@@ -4,7 +4,7 @@
 - 📫 How to reach me aysenurperker3@gmail.com
 
 ### Languages and Tools:
-<br>
+
 <img align="left" alt="Dart" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" />
 
 <img align="left" alt="Flutter" width="30px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />
