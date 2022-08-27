@@ -3,7 +3,7 @@
 -
 - 🌱 I’m currently learning 💙Flutter&Dart💙 
 - 📫 How to reach me aysenurperker3@gmail.com
-<br />
+
 
 ### Languages and Tools:
  <a href="https://www.linkedin.com/in/aysenurperker/">
