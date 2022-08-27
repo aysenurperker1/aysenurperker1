@@ -32,7 +32,7 @@
 </div>
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aysenurperker1)]
+![Ayşenur Perker's GitHub stats](https://github-readme-stats.vercel.app/api?username=aysenurperker1&show_icons=true&theme=radical)
 
  
   
