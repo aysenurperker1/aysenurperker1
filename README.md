@@ -3,13 +3,13 @@
 </div>
 
 <h1 align = "center">
-  Hi There👋 I'm Ayşenur Perker :eyes:
+  Hi There👋 
 </h1>
 
 <br/>
 
 
-###   : 
+###  I'm Ayşenur Perker :eyes: : 
 - 🌱 I’m currently learning 💙Flutter&Dart💙 
 - 📫 How to reach me aysenurperker3@gmail.com
 
