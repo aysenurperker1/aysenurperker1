@@ -33,8 +33,10 @@
 </br>
 
 ![Ayşenur Perker's GitHub stats](https://github-readme-stats.vercel.app/api?username=aysenurperker1&show_icons=true&theme=vue)
+<br/>
 
- 
+ ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=aysenurperker1&layout=compact)
+
   
 <!---
 aysenurperker1/aysenurperker1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
