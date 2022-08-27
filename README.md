@@ -1,7 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/l0Iy88cWKqBeBN92o/giphy.gif" width="100"/>
-</div>
-<br/>
+
 ### Hi There 👋 I'm Ayşenur Perker :eyes: 
 -
 - 🌱 I’m currently learning 💙Flutter&Dart💙 
@@ -24,6 +21,11 @@
 <img align="left" alt="Github" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/l0Iy88cWKqBeBN92o/giphy.gif" width="100"/>
+</div>
+<br/>
  
 
  
