@@ -1,7 +1,7 @@
 
 ### Hi There 👋 I'm Ayşenur Perker :eyes: 
 -
-- 🌱 I’m currently learning 💙Flutter&&Dart💙 
+- 🌱 I’m currently learning 💙Flutter&Dart💙 
 - 📫 How to reach me aysenurperker3@gmail.com
 <br />
 
