@@ -22,11 +22,9 @@
 
 <br />
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/l0Iy88cWKqBeBN92o/giphy.gif" width="100"/>
-</div>
-<br/>
- 
+
+ <img align="left" alt="Github" width="90px" src="https://media.giphy.com/media/l0Iy88cWKqBeBN92o/giphy.gif" />
+
 
  
   
