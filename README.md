@@ -1,11 +1,18 @@
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 ### Hi There 👋 I'm Ayşenur Perker :eyes: 
 -
 - 🌱 I’m currently learning 💙Flutter&Dart💙 
 - 📫 How to reach me aysenurperker3@gmail.com
 <br />
 
-### 🔧 Languages and Tools:
+### Languages and Tools:
+
+
+<br />
+
+### Languages and Tools:
 
 <img align="left" alt="Dart" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" />
 
