@@ -7,7 +7,7 @@
 
 <br/>
 
-###  I'm Ayşenur Perker :woman_technologist: : 
+###   :woman_technologist: I'm Ayşenur Perker: 
 - 🌱 I’m currently learning 💙Flutter&Dart💙 
 - 📫 How to reach me aysenurperker3@gmail.com
 
