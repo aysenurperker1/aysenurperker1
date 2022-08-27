@@ -1,15 +1,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jz7nZTW5oEBZAAZ4ge/giphy.gif" width="110"/>
 </div>
-
 <h1 align = "center">
   Hi There👋 
 </h1>
 
 <br/>
 
-
-###  I'm Ayşenur Perker :eyes: : 
+###  I'm Ayşenur Perker :woman_technologist: : 
 - 🌱 I’m currently learning 💙Flutter&Dart💙 
 - 📫 How to reach me aysenurperker3@gmail.com
 
