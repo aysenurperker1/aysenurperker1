@@ -24,7 +24,7 @@
 <br />
 ###
 <div id="header" align="left">
-  <img src="https://media.giphy.com/media/l0Iy88cWKqBeBN92o/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/l0Iy88cWKqBeBN92o/giphy.gif" width="200" height="200"/>
 </div>
 
 
