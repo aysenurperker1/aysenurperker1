@@ -2,6 +2,7 @@
 ### Hi There 👋 I'm Ayşenur Perker :eyes: 
 -
 - 🌱 I’m currently learning Dart,Flutter..
+- 📫 How to reach me [ornek]aysenurperker3@gmail.com
 <br />
 
 ### 🔧 Languages and Tools:
