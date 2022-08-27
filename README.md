@@ -1,6 +1,5 @@
 
 ### Hi There 👋 I'm Ayşenur Perker :eyes: 
--
 - 🌱 I’m currently learning 💙Flutter&Dart💙 
 - 📫 How to reach me aysenurperker3@gmail.com
 
@@ -24,8 +23,9 @@
 
 <br />
 
-
- <img align="left" alt="Github" width="90px" src="https://media.giphy.com/media/l0Iy88cWKqBeBN92o/giphy.gif" />
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/l0Iy88cWKqBeBN92o/giphy.gif" width="100"/>
+</div>
 
 
  
