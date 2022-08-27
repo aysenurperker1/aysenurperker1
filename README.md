@@ -3,7 +3,7 @@
 </div>
 
 <h1 align = "center">
-  Hi There :han I'm Ayşenur Perker :eyes:
+  Hi There👋 I'm Ayşenur Perker :eyes:
 </h1>
 
 <br/>
