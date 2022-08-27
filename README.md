@@ -2,7 +2,8 @@
   <img src="https://media.giphy.com/media/jz7nZTW5oEBZAAZ4ge/giphy.gif" width="100"/>
 </div>
 <br/>
-### Hi There 👋 I'm Ayşenur Perker :eyes: 
+
+### Hi There 👋 I'm Ayşenur Perker :eyes: : 
 - 🌱 I’m currently learning 💙Flutter&Dart💙 
 - 📫 How to reach me aysenurperker3@gmail.com
 
