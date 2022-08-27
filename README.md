@@ -30,7 +30,9 @@
 <div id="header" align="left">
  <img src="https://media.giphy.com/media/l0Iy88cWKqBeBN92o/giphy.gif" width="350" height="200"/>
 </div>
+</br>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aysenurperker1)](https://git.io/streak-stats)
 
  
   
