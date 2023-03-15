@@ -22,7 +22,6 @@
 <img align="left" alt="Github" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br/>
 <img align="left" alt="Swift" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" />
-<br/>
 
 ### Connect With Me:
  <a href="https://www.linkedin.com/in/aysenurperker/">
