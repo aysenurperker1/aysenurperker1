@@ -8,8 +8,8 @@
 <br/>
 
 ###   :woman_technologist: About Me :
-- 🌱 I’m currently learning Flutter and SwiftUI.
-- 📫 How to reach me aysenurperker3@gmail.com
+- 🌱 I’m currently learning **Flutter and SwiftUI.
+- 📫 How to reach me **aysenurperker3@gmail.com
 
 ### Languages and Tools:
 
